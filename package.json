@@ -1,5 +1,5 @@
 {
-  "name": "release-it",
+  "name": "release-it-sajad",
   "version": "0.0.0",
   "scripts": {
     "release": "release-it --config .release-it.js"
