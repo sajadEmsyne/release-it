@@ -1,0 +1,10 @@
+{
+  "name": "release-it",
+  "version": "0.0.0",
+  "scripts": {
+    "release": "release-it --config .release-it.js"
+  },
+  "dependencies": {
+    "release-it": "^18.1.1"
+  }
+}
